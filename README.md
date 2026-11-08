@@ -1,1 +1,1 @@
-# html-git-practice
+هذا المشروع عبارة عن صفحة HTML يتم استخدامها للتدريب على Git و GitHub.
